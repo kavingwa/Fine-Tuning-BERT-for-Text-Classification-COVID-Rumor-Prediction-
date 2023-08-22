@@ -6,8 +6,7 @@ This GitHub repository contains a comprehensive Jupyter Notebook for fine-tuning
 
 This notebook guides you through the process of fine-tuning a BERT model for text classification using the Hugging Face Transformers library and PyTorch. It covers the following key steps:
 
-1. Data Preprocessing: 
-Cleaning and preparing the text data for fine-tuning.
+1. Data Preprocessing: Cleaning and preparing the text data for fine-tuning.
 
 2. Tokenization: Using the BERT tokenizer to tokenize and encode the text data.
 
