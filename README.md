@@ -9,7 +9,7 @@ This notebook guides you through the process of fine-tuning a BERT model for tex
 1. Data Preprocessing: 
 Cleaning and preparing the text data for fine-tuning.
 
-2.Tokenization: Using the BERT tokenizer to tokenize and encode the text data.
+2. Tokenization: Using the BERT tokenizer to tokenize and encode the text data.
 
 3. Model Definition: Loading a pre-trained BERT model and customizing it for the classification task.
 
